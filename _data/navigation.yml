@@ -1,13 +1,23 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: About Me
+  url: /About/
 
 - title: Sample Posts
-  url: /posts/
+  url: /Musings/
+  
+- title: Sample Posts
+  url: /Education/
+  
+- title: Technical Experience
+  url: /TechExp/
+  
+  title: Resume
+  url: /assets/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Gallery
+  url: /Gallery/
+ 
 
 - title: Made Mistakes
   url: http://mademistakes.com
