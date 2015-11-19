@@ -7,12 +7,12 @@ comments: true
 
 ---
 <div>
-<table height = "150">
-<tr height="20">
+<table height = "80">
+<tr height="40">
 <td>
 <h3>MS in Computer Science</h3></td>
 <td>2015 - Present </td>
-<td rowspan="3"><img src="/images/tamulogo.png" height="150" width="150"></td>
+<td rowspan="3"><img src="/images/tamulogo.png" height="80" width="80"></td>
 </tr> 
 
 <tr height="20"> 
@@ -28,7 +28,7 @@ comments: true
 </div>
 
   <div data-role="main" class="ui-content">
-    <div data-role="collapsible" data-collapsed="false">
+    <div data-role="collapsible" data-collapsed="true">
       <h1>View Courses</h1>
       <ul>
       <li>Analysis of Algorithms</li>

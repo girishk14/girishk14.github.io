@@ -7,20 +7,20 @@ comments: true
 
 ---
 <div>
-<table height = "150">
-<tr height="50">
+<table height = "80">
+<tr height="40">
 <td>
 <h3>MS in Computer Science</h3></td>
 <td>2015 - Present </td>
-<td rowspan="3"><img src="/images/tamulogo.png" height="150" width="150"></td>
+<td rowspan="3"><img src="/images/tamulogo.png" height="80" width="80"></td>
 </tr> 
 
-<tr height="50"> 
+<tr height="20"> 
 <td>Texas A&M University</td>
 <td>College Station</td>
 </tr>
 
-<tr height="50">
+<tr height="20">
 <td>Semester : 1 </td>
 <td>GPA :0.00 </td>
 </tr>
