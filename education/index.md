@@ -7,22 +7,23 @@ comments: true
 
 ---
 <div>
-<table>
-<tr>
-<td>MS in Computer Science</td>
+<table height = "150">
+<tr height="20">
+<td>
+<h3>MS in Computer Science</h3></td>
 <td>2015 - Present </td>
-<td rowspan="3"><img src="/images/tamulogo.png" height="100" width="100"></td>
-<tr> 
+<td rowspan="3"><img src="/images/tamulogo.png" height="150" width="150"></td>
+</tr> 
 
-<tr>
+<tr height="20"> 
 <td>Texas A&M University</td>
 <td>College Station</td>
-<tr>
+</tr>
 
-<tr>
+<tr height="20">
 <td>Semester : 1 </td>
 <td>GPA :0.00 </td>
-<tr>
+</tr>
 </table>
 </div>
 
