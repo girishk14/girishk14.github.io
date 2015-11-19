@@ -1,23 +1,24 @@
 # Site navigation links
 
 - title: About Me
-  url: /About/index.md
-
-- title: Sample Posts
-  url: /Musings/
+  url: /about/
   
-- title: Sample Posts
-  url: /Education/
+- title: Education
+  url: /education/
   
 - title: Technical Experience
-  url: /TechExp/
+  url: /techexp/
   
   title: Resume
   url: /assets/gk_resume.pdf
 
-- title: Gallery
-  url: /Gallery/
- 
+- title: Tech Blog
+  url: /tech_blog/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+ 
+- title: Reflections
+  url: /reflections/
+ 
+  - title: Gallery
+  url: /gallery/
+ 
