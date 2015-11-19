@@ -6,10 +6,6 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 
 ---
-
-	
-
-
 <div>
 <table>
 <tr>
@@ -27,6 +23,8 @@ comments: true
 <td>Semester : 1 </td>
 <td>GPA :0.00 </td>
 <tr>
+</table>
+</div>
 
   <div data-role="main" class="ui-content">
     <div data-role="collapsible" data-collapsed="false">
@@ -38,4 +36,3 @@ comments: true
     </div>
   </div>
 
-<div>
