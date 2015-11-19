@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Homepage of Girish
 locale:           en_US
 url:
 
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Girish Kasiviswanathan
+  avatar: gk.jpg
   bio: "Describe your self."
-  email:
+  email: girishk14@tamu.edu
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: girishk14
+  facebook: gir.192
   google:
-    plus: #username
+    plus: girishk14
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: girishk14
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
