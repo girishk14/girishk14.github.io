@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: About Me
-  url: /About/
+  url: /About/index.md
 
 - title: Sample Posts
   url: /Musings/
@@ -13,7 +13,7 @@
   url: /TechExp/
   
   title: Resume
-  url: /assets/
+  url: /assets/gk_resume.pdf
 
 - title: Gallery
   url: /Gallery/
