@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Girish Kasiviswanathan
   avatar: gk.jpg
-  bio: "Describe your self."
+  bio: "Graduate Student at Texas A&M University </img src='gk.jpg'>"
   email: girishk14@tamu.edu
   disqus-shortname:
   twitter: girishk14
@@ -42,9 +42,9 @@ owner:
   bing-verify:
   github: girishk14
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: girishk14
   xing: #username
-  instagram: #username
+  instagram: gir.1992
   lastfm: #username
   tumblr: #username
   pinterest: #username
