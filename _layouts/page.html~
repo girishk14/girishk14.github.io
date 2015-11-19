@@ -21,7 +21,7 @@
     {% else %}
       "{{ site.url }}/images/{{ page.image.feature }}"
     {% endif %}
-  alt="{{ page.title }} feature image">
+  alt="{{ page.title }} feature image" height="10" width="10">
   {% if page.image.credit %}
     <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
   {% endif %}
@@ -32,14 +32,12 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
+  </article>
   <article class="page">
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-   
     </div><!-- /.article-wrap -->
- 
-  </article>
 </div><!-- /#index -->
 
 <div class="footer-wrap">
