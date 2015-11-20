@@ -20,15 +20,15 @@ padding: 0 0 0 0
 }
 </style>
 
-<h3><u>Work Experience</u> </h3>
+<h2><u>Work Experience</u> </h2>
 
 
 <div>
 <table height = "100">
 <tr height="40">
 <td>
-<h4>Software Development Intern</h4></td>
-<td><h4>Cisco Systems, Bangalore</h4></td>
+<h3>Software Development Intern</h3></td>
+<td><h3>Cisco Systems, Bangalore</h3></td>
 <td class="pic" rowspan="2"><img src="/images/cisco.jpg" height="100" width="160" align="right"></td>
 </tr>
 
@@ -46,8 +46,8 @@ padding: 0 0 0 0
 <table height = "120">
 <tr height="40">
 <td>
-<h4>Summer Research Intern</h4></td>
-<td><h4>IBM Research, Bangalore</h4></td>
+<h3>Summer Research Intern</h3></td>
+<td><h3>IBM Research, Bangalore</h3></td>
 <td class="pic" rowspan="2"><img src="/images/irl.jpg" height="120" width="200" align="right"></td>
 </tr>
 
@@ -65,8 +65,8 @@ padding: 0 0 0 0
 <table height = "80">
 <tr height="40">
 <td>
-<h4>Trainee</h4></td>
-<td><h4>ATT Systems, India</h4></td>
+<h3>Trainee</h3></td>
+<td><h3>ATT Systems, India</h3></td>
 <td class="pic" rowspan="2"><img src="/images/att.jpeg" height="80" width="150" align="right"></td>
 </tr>
 

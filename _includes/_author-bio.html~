@@ -14,10 +14,10 @@
 
   <p>{{ author.bio }}</p>
   
- <img src="{{ site.url }}/images/tamu_cs.png" height="30" width="180">
-
+ <img src="{{ site.url }}/images/tamu_cs.png" height="40" width="2200">
 </br>
-<p>Aspiring AI Scientist, Coding Enthusiast, Fighting Aggie, Perioidically Inspired Writer and Veteran Foodie </p>
+</br>
+<p>Aspiring AI Scientist, Coding Enthusiast, Fighting Aggie, Perioidically Inspired Writer and Veteran Foodie	 </p>
 
   {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
   {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
