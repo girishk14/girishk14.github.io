@@ -44,7 +44,7 @@ padding: 0 0 0 0
       <li>Artifical Intelligence (CSCE 625) - <a href="http://faculty.cs.tamu.edu/ioerger/">Dr. Thomas Ioerger</a> </li>
       <li>Sketch Recognition (CSCE 624) - <a href="http://faculty.cse.tamu.edu/hammond/">Dr. Tracy Hammond</a> 
 	<ul>
-		<li><a href="www.sketchrecogk.blogspot.com">View Sketch Recognition Research Blog</a></li>
+		<li><a href="http://sketchrecogk.blogspot.com">View Sketch Recognition Research Blog</a></li>
 	</ul>
       </li>
      </ul>
