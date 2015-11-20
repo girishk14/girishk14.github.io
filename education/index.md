@@ -12,12 +12,13 @@ comments: true
 <td>
 <h3>MS in Computer Science</h3></td>
 <td>2015 - Present </td>
-<td rowspan="3"><img src="/images/tamulogo.png" height="80" width="80"></td>
 </tr> 
 
 <tr height="20"> 
 <td>Texas A&M University</td>
 <td>College Station</td>
+
+<td rowspan="3"><img src="/images/tamulogo.png" height="100" width="100"></td>
 </tr>
 
 <tr height="20">
