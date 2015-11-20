@@ -8,17 +8,16 @@ comments: true
 ---
 <div>
 <table height = "80">
-<tr height="40">
+<tr height="30">
 <td>
 <h3>MS in Computer Science</h3></td>
 <td>2015 - Present </td>
+<td rowspan="3"><img src="/images/tamulogo.png" height="100" width="100"></td>
 </tr> 
 
 <tr height="20"> 
-<td>Texas A&M University</td>
+<td><h2>Texas A&M University<h2></td>
 <td>College Station</td>
-
-<td rowspan="3"><img src="/images/tamulogo.png" height="100" width="100"></td>
 </tr>
 
 <tr height="20">
