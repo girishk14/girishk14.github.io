@@ -24,8 +24,8 @@ padding: 0 0 0 0
 <table height = "100">
 <tr height="40">
 <td>
-<h3>MS in Computer Science</h3></td>
-<td><h3>Texas A&M University, College Station</h3></td>
+<h2>MS in Computer Science</h2></td>
+<td><h2>Texas A&M University, College Station</h2></td>
 <td class="pic" rowspan="2"><img src="/images/tamulogo.png" height="100" width="100" align="right"></td>
 </tr>
 
@@ -44,7 +44,7 @@ padding: 0 0 0 0
       <li>Artifical Intelligence (CSCE 625) - <a href="http://faculty.cs.tamu.edu/ioerger/">Dr. Thomas Ioerger</a> </li>
       <li>Sketch Recognition (CSCE 624) - <a href="http://faculty.cse.tamu.edu/hammond/">Dr. Tracy Hammond</a> 
 	<ul>
-		<li><a href="http://ketchrecogk.blogspot.com">View Sketch Recognition Research Blog</a></li>
+		<li><a href="http://sketchrecogk.blogspot.com">View Sketch Recognition Research Blog</a></li>
 	</ul>
       </li>
      </ul>
@@ -59,8 +59,8 @@ padding: 0 0 0 0
 <table height = "80">
 <tr height="40">
 <td>
-<h3>B.Tech in Computer Science and Engineering</h3></td>
-<td><h3>Manipal Institute of Technology</h3></td>
+<h2>B.Tech in Computer Science and Engineering</h2></td>
+<td><h2>Manipal Institute of Technology</h2></td>
 <td class="pic" rowspan="2"><img src="/images/manipal.png" height="80" width="80" align='right'></td>
 </tr>
 

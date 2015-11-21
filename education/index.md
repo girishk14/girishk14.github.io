@@ -24,8 +24,8 @@ padding: 0 0 0 0
 <table height = "100">
 <tr height="40">
 <td>
-<h3>MS in Computer Science</h3></td>
-<td><h3>Texas A&M University, College Station</h3></td>
+<h4>MS in Computer Science</h4></td>
+<td><h4>Texas A&M University, College Station</h4></td>
 <td class="pic" rowspan="2"><img src="/images/tamulogo.png" height="100" width="100" align="right"></td>
 </tr>
 
@@ -59,8 +59,8 @@ padding: 0 0 0 0
 <table height = "80">
 <tr height="40">
 <td>
-<h3>B.Tech in Computer Science and Engineering</h3></td>
-<td><h3>Manipal Institute of Technology</h3></td>
+<h4>B.Tech in Computer Science and Engineering</h4></td>
+<td><h4>Manipal Institute of Technology</h4></td>
 <td class="pic" rowspan="2"><img src="/images/manipal.png" height="80" width="80" align='right'></td>
 </tr>
 
