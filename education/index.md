@@ -68,12 +68,16 @@ padding: 0 0 0 0
 <td><i>August 2011 - July 2015</i></td>
 <td>GPA : 9.22/10</td>
 </tr>
+
+<tr>
+<td><a href="/assets/transcripts.pdf">View Transcripts</a></td></tr>
 </table>
 </div>
 
   <div data-role="main" class="ui-content">
     <div data-role="collapsible" data-collapsed="true">
-      <h1>View Courses</h1>
+
+      <h3>View Courses</h3>
       <ul>
  <li>Problem Solving Using Computers (CSE 101)</li>
 <li>Engineering Mathematics 1 (MAT 101)</li>

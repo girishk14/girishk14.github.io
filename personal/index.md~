@@ -1,15 +1,21 @@
 ---
 layout: page
-title: Gallery
+title: Personal
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 
 ---
-<h4>Some memories of the phases of my life . . .  :)</h4>
-<br>
 
-<div align="center" data-hash="true"     data-arrows="true"
+<script>
+$(window).load(function()
+{
+alert("Boo!");
+})
+</script>
+
+
+<div align="center"  onload="javascript:window.location.reload(true)"   data-arrows="true"
      data-click="true"
      data-swipe="true"  data-keyboard="true" class="fotorama" data-width="600" data-height="400" data-nav="thumbs">
 <img src="/images/movie.jpg" data-caption="Movie with CSE grad students and our awesome depatment head">
@@ -19,11 +25,4 @@ comments: true
 <img src="/images/conclave.jpg" data-caption="Group photo at The Manipal Conclave">
 <img src="/images/ncfe.jpg" data-caption="12th standard graduation day at NCFE!">
 <img src="/images/cottons.jpg" data-caption="10th standard graduation day at Bishop Cottons!">
-
 </div>
-
-
-
-
-
-
