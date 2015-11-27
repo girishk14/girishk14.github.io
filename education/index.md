@@ -70,7 +70,7 @@ padding: 0 0 0 0
 </tr>
 
 <tr>
-<td><a href="/assets/transcripts.pdf">View Transcripts</a></td></tr>
+<td><a href="/assets/transcripts.pdf" target="_blank">View Transcripts</a></td></tr>
 </table>
 </div>
 

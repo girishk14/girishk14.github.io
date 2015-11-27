@@ -1,10 +1,7 @@
 ---
-layout: page
+layout: post-index
 title: Tech Blog
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
-
+excerpt: "A List of Posts"
 ---
 
-## This is going to be a tech blog!
+####Coming soon . . .
