@@ -31,8 +31,11 @@ padding: 0 0 0 0
 
 <tr height="20">
 <td><i>August 2015 - Present</i></td>
-<td>GPA : N/A</td>
+<td>GPA : 4.0/4.0</td>
 </tr>
+
+<tr>
+<td><a href="/assets/TAMU_Transcript.pdf" target="_blank">View Transcripts</a></td></tr>
 </table>
 </div>
 
