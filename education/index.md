@@ -42,15 +42,27 @@ padding: 0 0 0 0
   <div data-role="main" class="ui-content">
     <div data-role="collapsible" data-collapsed="true">
       <h1>View Courses</h1>
+      
+       Fall 2015 :
       <ul>
       <li>Analysis of Algorithms (CSCE 629) - <a href="http://faculty.cse.tamu.edu/ajiang/jiang.htm">Dr. Anxiao Jiang</a></li>
       <li>Artifical Intelligence (CSCE 625) - <a href="http://faculty.cs.tamu.edu/ioerger/">Dr. Thomas Ioerger</a> </li>
       <li>Sketch Recognition (CSCE 624) - <a href="http://faculty.cse.tamu.edu/hammond/">Dr. Tracy Hammond</a> 
-	<ul>
+       <ul>
 		<li><a href="http://sketchrecogk.blogspot.com">View Sketch Recognition Research Blog</a></li>
-	</ul>
+       </ul>
       </li>
      </ul>
+
+      Spring 2016 :
+      <ul>
+      <li>Natural Language Processing - <a href="http://faculty.cse.tamu.edu/huangrh/">Dr. Ruihong Huang</a></li>
+      <li>Machine Learning (CSCE 633) - <a href="http://faculty.cs.tamu.edu/ioerger/">Dr. Thomas Ioerger</a> </li>
+      <li>Operating Systems (CSCE 613) - <a href="http://faculty.cse.tamu.edu/dilma/">Dr. Dilma Da Silva</a> 
+      </li>
+     </ul>
+
+
     </div>
   </div>
 </div>
