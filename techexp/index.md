@@ -29,7 +29,7 @@ padding: 0 0 0 0
 <td>
 <h4>Software Development Intern</h4></td>
 <td><h4>Cisco Systems, Bangalore</h4></td>
-<td class="pic" rowspan="2"><img src="/images/cisco.jpg" height="100" width="160" align="right"></td>
+<td class="pic" rowspan="2"><a href="http://www.cisco.com"><img src="/images/cisco.jpg" height="100" width="160" align="right"></a></td>
 </tr>
 
 <tr height="20">
@@ -48,7 +48,7 @@ padding: 0 0 0 0
 <td>
 <h4>Summer Research Intern</h4></td>
 <td><h4>IBM Research, Bangalore</h4></td>
-<td class="pic" rowspan="2"><img src="/images/irl.jpg" height="120" width="200" align="right"></td>
+<td class="pic" rowspan="2"><a href="http://www.ibm.com"><img src="/images/irl.jpg" height="120" width="200" align="right"></a></td>
 </tr>
 
 <tr height="20">

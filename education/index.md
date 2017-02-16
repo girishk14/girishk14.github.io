@@ -26,7 +26,7 @@ padding: 0 0 0 0
 <td>
 <h4>MS in Computer Science</h4></td>
 <td><h4>Texas A&M University, College Station</h4></td>
-<td class="pic" rowspan="2"><img src="/images/tamulogo.png" height="100" width="100" align="right"></td>
+<td class="pic" rowspan="2"><a href="http://www.tamu.edu"><img src="/images/tamulogo.png" height="100" width="100" align="right"></a></td>
 </tr>
 
 <tr height="20">
@@ -76,7 +76,7 @@ padding: 0 0 0 0
 <td>
 <h4>B.Tech in Computer Science and Engineering</h4></td>
 <td><h4>Manipal Institute of Technology</h4></td>
-<td class="pic" rowspan="2"><img src="/images/manipal.png" height="80" width="80" align='right'></td>
+<td class="pic" rowspan="2"><a href="http://www.manipal.edu"><img src="/images/manipal.png" height="80" width="80" align='right'></a></td>
 </tr>
 
 <tr height="20">
