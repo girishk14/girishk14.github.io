@@ -13,4 +13,7 @@ comments: true
 
 
 <h3>Also, be sure to check out this awesome file about this concept! </h3>
-<a href="/assets/awcv9kjlh scwrlkjf4e.pdf" target="_blank">Check out the awesome awcv9kjlh_scwrlkjf4e</a>
+<a href="/assets/awcv9kjlh scwrlkjf4e.pdf" target="_blank">Research article on awcv9kjlh_scwrlkjf4e</a>
+
+
+This is a Quora excerpt of an post regarding ideas such as these : Abstract ideas are nonmaterial concepts that are detached from our human senses; they cannot be felt, heard, seen, touched, tasted, smelled, and yet they are significant aspects of human cognition and human culture. Examples include the ideas of love, democracy, freedom, history, government, and even the idea of an idea or of the mind itself. Because these concepts are disembodied from the empirical world, we can only test them indirectly. The fact that most human languages have a word for “ love” would, for example, be evidence that such a concept exists, or the ability of people who are not free to think about and even fight for “freedom” is indirect evidence that such a concept, while abstract, exists and has real-world consequences. 
