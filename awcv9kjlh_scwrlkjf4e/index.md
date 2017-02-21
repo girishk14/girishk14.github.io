@@ -1,6 +1,6 @@
 ---
 layout: page
-title: awcv9kjlh scwrlkjf4e 
+title: An analysis of awcv9kjlh scwrlkjf4e 
 tags: [awcv9kjlh scwrlkjf4e, awcv9kjlh, scwrlkjf4e ]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -18,8 +18,14 @@ comments: true
 
 <iframe width="560" height="315" alt="awcv9kjlh scwrlkjf4e" src="https://www.youtube.com/embed/cksy13zw3UQ" frameborder="0" allowfullscreen></iframe>
 
-This is a Quora excerpt of an post regarding ideas such as these : Abstract ideas are nonmaterial concepts that are detached from our human senses; they cannot be felt, heard, seen, touched, tasted, smelled, and yet they are significant aspects of human cognition and human culture. Examples include the ideas of love, democracy, freedom, history, government, and even the idea of an idea or of the mind itself. Because these concepts are disembodied from the empirical world, we can only test them indirectly. The fact that most human languages have a word for “ love” would, for example, be evidence that such a concept exists, or the ability of people who are not free to think about and even fight for “freedom” is indirect evidence that such a concept, while abstract, exists and has real-world consequences. 
 
+<p>Unable to view the video? Here is the link! <a href = "https://www.youtube.com/watch?v=cksy13zw3UQ">https://www.youtube.com/watch?v=cksy13zw3UQ</a></p>
+
+<p> I have also maintained a Github repository for those who might be interested! <a href = "https://github.com/girishk14/awcv9kjlh-scwrlkjf4e">Github Link for awcv9kjlh scwrlkjf4e</a> </p>
+
+<div>
+This is a Quora excerpt of an post regarding ideas such as these : Abstract ideas are nonmaterial concepts that are detached from our human senses; they cannot be felt, heard, seen, touched, tasted, smelled, and yet they are significant aspects of human cognition and human culture. Examples include the ideas of love, democracy, freedom, history, government, and even the idea of an idea or of the mind itself. Because these concepts are disembodied from the empirical world, we can only test them indirectly. The fact that most human languages have a word for “ love” would, for example, be evidence that such a concept exists, or the ability of people who are not free to think about and even fight for “freedom” is indirect evidence that such a concept, while abstract, exists and has real-world consequences. 
+</div>
 
 <h4> Also check out my other website on the people.tamu.edu domain for this task:
 <a href = "http://people.tamu.edu/~girishk14/">girishk14's repository on awcv9kjlh scwrlkjf4e</a>
