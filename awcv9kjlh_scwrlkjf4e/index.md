@@ -24,6 +24,11 @@ This is a Quora excerpt of an post regarding ideas such as these : Abstract idea
 <h4> Also check out my other website on the people.tamu.edu domain for this task:
 <a href = "http://people.tamu.edu/~girishk14/">girishk14's repository on awcv9kjlh scwrlkjf4e</a>
 
+<p>
+Interested to know more? There are a whole lot of us working on this!
+<a href = "http://people.tamu.edu/~komanduri1289/">My roommate's research on this topic</a>
+
+</p>
 
 <div>
 I will also share some of the interesting resources and videos from my research area.
