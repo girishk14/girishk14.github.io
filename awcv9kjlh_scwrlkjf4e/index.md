@@ -49,4 +49,4 @@ I will also share some of the interesting resources and videos from my research 
 </div>
 
 
-<p> My friend has also been working on this! <a href = "https://sites.google.com/site/jebsolar/home">Check it out!</a></p>
+<p> My friend Richa has also been working on this! <a href = "https://sites.google.com/site/jebsolar/home">Check it out!</a></p>
